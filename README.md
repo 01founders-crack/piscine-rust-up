@@ -72,18 +72,19 @@ Exercises:
 
 Video: https://www.youtube.com/watch?v=O0o19HANB_w
 
-Exercices:
+Exercises:
 
-- ownership | https://github.com/01-edu/public/tree/master/subjects/ownership
-- copy | https://github.com/01-edu/public/tree/master/subjects/copy
-- borrow | https://github.com/01-edu/public/tree/master/subjects/borrow
-- doubtful | https://github.com/01-edu/public/tree/master/subjects/doubtful
-- borrow_me_the_reference | https://github.com/01-edu/public/tree/master/subjects/borrow_me_the_reference
-- changes | https://github.com/01-edu/public/tree/master/subjects/changes
-- string_literals | https://github.com/01-edu/public/tree/master/subjects/string_literals
-- name_initials | https://github.com/01-edu/public/tree/master/subjects/name_initials
-- arrange_it | https://github.com/01-edu/public/tree/master/subjects/arrange_it
-- tic_tac_toe | https://github.com/01-edu/public/tree/master/subjects/tic_tac_toe
+  - **borrow** | [https://github.com/01-edu/public/tree/master/subjects/borrow](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/borrow)
+  - **doubtful** | [https://github.com/01-edu/public/tree/master/subjects/doubtful](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/doubtful)
+  - **to\_url** | [https://github.com/01-edu/public/tree/master/subjects/to\_url](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/to_url)
+  - **string\_literals** | [https://github.com/01-edu/public/tree/master/subjects/string\_literals](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/string_literals)
+  - **name\_initials** | [https://github.com/01-edu/public/tree/master/subjects/name\_initials](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/name_initials)
+  - **ownership** | [https://github.com/01-edu/public/tree/master/subjects/ownership](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/ownership)
+  - **copy** | [https://github.com/01-edu/public/tree/master/subjects/copy](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/copy)
+  - **borrow\_me\_the\_reference** | [https://github.com/01-edu/public/tree/master/subjects/borrow\_me\_the\_reference](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/borrow_me_the_reference)
+  - **tic\_tac\_toe** | [https://github.com/01-edu/public/tree/master/subjects/tic\_tac\_toe](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/tic_tac_toe)
+  - **arrange\_it** | [https://github.com/01-edu/public/tree/master/subjects/arrange\_it](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/arrange_it)
+
 
 ### Quest 03-rust
 
