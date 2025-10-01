@@ -90,20 +90,22 @@ Exercises:
 
 Video: https://www.youtube.com/watch?v=URAJIouRd0I
 
-Exercices:
 
-- circle | https://github.com/01-edu/public/tree/master/subjects/circle
-- card_deck | https://github.com/01-edu/public/tree/master/subjects/card_deck
-- arrays | https://github.com/01-edu/public/tree/master/subjects/arrays
-- strings | https://github.com/01-edu/public/tree/master/subjects/strings
-- edit_distance | https://github.com/01-edu/public/tree/master/subjects/edit_distance
-- to_url | https://github.com/01-edu/public/tree/master/subjects/to_url
-- capitalizing | https://github.com/01-edu/public/tree/master/subjects/capitalizing
-- hashing | https://github.com/01-edu/public/tree/master/subjects/hashing
-- string_permutation | https://github.com/01-edu/public/tree/master/subjects/string_permutation
-- bigger | https://github.com/01-edu/public/tree/master/subjects/bigger
-- simple_hash | https://github.com/01-edu/public/tree/master/subjects/simple_hash
-- collect | https://github.com/01-edu/public/tree/master/subjects/collect
+Exercises:
+
+  - **changes** | [https://github.com/01-edu/public/tree/master/subjects/changes](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/changes)
+  - **circle** | [https://github.com/01-edu/public/tree/master/subjects/circle](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/circle)
+  - **card\_deck** | [https://github.com/01-edu/public/tree/master/subjects/card\_deck](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/card_deck)
+  - **arrays** | [https://github.com/01-edu/public/tree/master/subjects/arrays](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/arrays)
+  - **strings** | [https://github.com/01-edu/public/tree/master/subjects/strings](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/strings)
+  - **capitalizing** | [https://github.com/01-edu/public/tree/master/subjects/capitalizing](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/capitalizing)
+  - **edit\_distance** | [https://github.com/01-edu/public/tree/master/subjects/edit\_distance](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/edit_distance)
+  - **simple\_hash** | [https://github.com/01-edu/public/tree/master/subjects/simple\_hash](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/simple_hash)
+  - **bigger** | [https://github.com/01-edu/public/tree/master/subjects/bigger](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/bigger)
+  - **string\_permutation** | [https://github.com/01-edu/public/tree/master/subjects/string\_permutation](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/string_permutation)
+  - **hashing** | [https://github.com/01-edu/public/tree/master/subjects/hashing](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/hashing)
+  - **collect** | [https://github.com/01-edu/public/tree/master/subjects/collect](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/collect)
+
 
 ### Raid 01-rust
 
@@ -119,77 +121,94 @@ Exercice:
 
 Video: https://www.youtube.com/watch?v=3D0mOw0egHc
 
-Exercices:
+Exercises:
 
-- unwrap_or_expect | https://github.com/01-edu/public/tree/master/subjects/unwrap_or_expect
-- panic | https://github.com/01-edu/public/tree/master/subjects/panic
-- handling | https://github.com/01-edu/public/tree/master/subjects/handling
-- profanity_filter | https://github.com/01-edu/public/tree/master/subjects/profanity_filter
-- question_mark | https://github.com/01-edu/public/tree/master/subjects/question_mark
-- banner | https://github.com/01-edu/public/tree/master/subjects/banner
-- cipher | https://github.com/01-edu/public/tree/master/subjects/cipher
-- error_types | https://github.com/01-edu/public/tree/master/subjects/error_types
-- boxing_todo | https://github.com/01-edu/public/tree/master/subjects/boxing_todo
+  - **unwrap\_or\_expect** | [https://github.com/01-edu/public/tree/master/subjects/unwrap\_or\_expect](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/unwrap_or_expect)
+  - **panic** | [https://github.com/01-edu/public/tree/master/subjects/panic](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/panic)
+  - **handling** | [https://github.com/01-edu/public/tree/master/subjects/handling](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/handling)
+  - **profanity\_filter** | [https://github.com/01-edu/public/tree/master/subjects/profanity\_filter](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/profanity_filter)
+  - **question\_mark** | [https://github.com/01-edu/public/tree/master/subjects/question\_mark](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/question_mark)
+  - **banner** | [https://github.com/01-edu/public/tree/master/subjects/banner](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/banner)
+  - **cipher** | [https://github.com/01-edu/public/tree/master/subjects/cipher](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/cipher)
+  - **error\_types** | [https://github.com/01-edu/public/tree/master/subjects/error\_types](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/error_types)
+  - **boxing\_todo** | [https://github.com/01-edu/public/tree/master/subjects/boxing\_todo](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/boxing_todo)
+
+
 
 ### Quest 05-rust
 
 Video: https://www.youtube.com/watch?v=XyUliQD7v-0
 
-Exercices:
+Exercises:
 
-- middle_day | https://github.com/01-edu/public/tree/master/subjects/middle_day
-- does_it_fit | https://github.com/01-edu/public/tree/master/subjects/does_it_fit
-- macro_calculator | https://github.com/01-edu/public/tree/master/subjects/macro_calculator
-- shopping_mall | https://github.com/01-edu/public/tree/master/subjects/shopping_mall
-- expected_variable | https://github.com/01-edu/public/tree/master/subjects/expected_variable
-- mobs | https://github.com/01-edu/public/tree/master/subjects/mobs
+  - **middle\_day** | [https://github.com/01-edu/public/tree/master/subjects/middle\_day](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/middle_day)
+  - **does\_it\_fit** | [https://github.com/01-edu/public/tree/master/subjects/does\_it\_fit](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/does_it_fit)
+  - **macro\_calculator** | [https://github.com/01-edu/public/tree/master/subjects/macro\_calculator](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/macro_calculator)
+  - **shopping\_mall** | [https://github.com/01-edu/public/tree/master/subjects/shopping\_mall](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/shopping_mall)
+  - **expected\_variable** | [https://github.com/01-edu/public/tree/master/subjects/expected\_variable](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/expected_variable)
+  - **mobs** | [https://github.com/01-edu/public/tree/master/subjects/mobs](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/mobs)
 
-### Raid 02-rust
+### Quest 06-rust
 
-Exercice:
+Video: [https://www.youtube.com/watch?v=LMOcoPamcxM](https://www.youtube.com/watch?v=LMOcoPamcxM)
 
-- road-intersection | https://github.com/01-edu/public/tree/master/subjects/road-intersection
+-----
+
+Exercises:
+
+  - **stars** | [https://github.com/01-edu/public/tree/master/subjects/stars](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/stars)
+  - **scores** | [https://github.com/01-edu/public/tree/master/subjects/scores](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/scores)
+  - **searching** | [https://github.com/01-edu/public/tree/master/subjects/searching](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/searching)
+  - **ordinal** | [https://github.com/01-edu/public/tree/master/subjects/ordinal](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/ordinal)
+  - **pangram** | [https://github.com/01-edu/public/tree/master/subjects/pangram](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/pangram)
+  - **talking** | [https://github.com/01-edu/public/tree/master/subjects/talking](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/talking)
+  - **logic\_number** | [https://github.com/01-edu/public/tree/master/subjects/logic\_number](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/logic_number)
+  - **rot** | [https://github.com/01-edu/public/tree/master/subjects/rot](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/rot)
+  - **rgb\_match** | [https://github.com/01-edu/public/tree/master/subjects/rgb\_match](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/rgb_match)
+  - **pig\_latin** | [https://github.com/01-edu/public/tree/master/subjects/pig\_latin](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/pig_latin)
+  - **scytale\_cipher** | [https://github.com/01-edu/public/tree/master/subjects/scytale\_cipher](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/scytale_cipher)
+  - **diamond\_creation** | [https://github.com/01-edu/public/tree/master/subjects/diamond\_creation](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/diamond_creation)
+  - **spelling** | [https://github.com/01-edu/public/tree/master/subjects/spelling](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/spelling)
 
 ---
 
 ## Week Three
 
-### Quest 06-rust
-
-Video: https://www.youtube.com/watch?v=xCEDVb4p7Js
-
-Exercices:
-
-- generics | https://github.com/01-edu/public/tree/master/subjects/generics
-- traits | https://github.com/01-edu/public/tree/master/subjects/traits
-- lifetimes | https://github.com/01-edu/public/tree/master/subjects/lifetimes
-- lalgebra_scalar | https://github.com/01-edu/public/tree/master/subjects/lalgebra_scalar
-- matrix | https://github.com/01-edu/public/tree/master/subjects/matrix
-- matrix_ops | https://github.com/01-edu/public/tree/master/subjects/matrix_ops
-- matrix_mult | https://github.com/01-edu/public/tree/master/subjects/matrix_mult
-- lalgebra_vector | https://github.com/01-edu/public/tree/master/subjects/lalgebra_vector
-- blood_types | https://github.com/01-edu/public/tree/master/subjects/blood_types
-- border_cross | https://github.com/01-edu/public/tree/master/subjects/border_cross
-- roman_numbers | https://github.com/01-edu/public/tree/master/subjects/roman_numbers
-- roman_numbers_iter | https://github.com/01-edu/public/tree/master/subjects/roman_numbers_iter
-- vectors_operations | https://github.com/01-edu/public/tree/master/subjects/vector_operations
-- events | https://github.com/01-edu/public/tree/master/subjects/events
-- delete_prefix | https://github.com/01-edu/public/tree/master/subjects/delete_prefix
-- commits_stats | https://github.com/01-edu/public/tree/master/subjects/commits_stats
-
-
 ### Quest 07-rust
 
-Video: https://www.youtube.com/watch?v=jzgKZTtVNwQ
+Video: [https://www.youtube.com/watch?v=jzgKZTtVNwQ](https://www.youtube.com/watch?v=jzgKZTtVNwQ)
 
-Exercices:
+-----
 
-- box_it | https://github.com/01-edu/public/tree/master/subjects/box_it
-- borrow_box | https://github.com/01-edu/public/tree/master/subjects/borrow_box
-- box_recursion | https://github.com/01-edu/public/tree/master/subjects/box_recursion
-- how_many_references | https://github.com/01-edu/public/tree/master/subjects/how_many_references
-- ref_cell | https://github.com/01-edu/public/tree/master/subjects/ref_cell
-- drop_the_thread | https://github.com/01-edu/public/tree/master/subjects/drop_the_thread
+Exercises:
+
+  - **box\_it** | [https://github.com/01-edu/public/tree/master/subjects/box\_it](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/box_it)
+  - **borrow\_box** | [https://github.com/01-edu/public/tree/master/subjects/borrow\_box](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/borrow_box)
+  - **box\_recursion** | [https://github.com/01-edu/public/tree/master/subjects/box\_recursion](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/box_recursion)
+  - **how\_many\_references** | [https://github.com/01-edu/public/tree/master/subjects/how\_many\_references](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/how_many_references)
+  - **ref\_cell** | [https://github.com/01-edu/public/tree/master/subjects/ref\_cell](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/ref_cell)
+  - **drop\_the\_thread** | [https://github.com/01-edu/public/tree/master/subjects/drop\_the\_thread](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/drop_the_thread)
+
+
+### Quest 08-rust
+
+Video: [https://www.youtube.com/watch?v=xCEDVb4p7Js](https://www.youtube.com/watch?v=xCEDVb4p7Js)
+
+-----
+
+Exercises:
+
+  - **generics** | [https://github.com/01-edu/public/tree/master/subjects/generics](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/generics)
+  - **generics\_list** | [https://github.com/01-edu/public/tree/master/subjects/generics\_list](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/generics_list)
+  - **easy\_traits** | [https://github.com/01-edu/public/tree/master/subjects/easy\_traits](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/easy_traits)
+  - **traits** | [https://github.com/01-edu/public/tree/master/subjects/traits](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/traits)
+  - **blood\_types** | [https://github.com/01-edu/public/tree/master/subjects/blood\_types](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/blood_types)
+  - **vector\_operations** | [https://github.com/01-edu/public/tree/master/subjects/vector\_operations](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/vector_operations)
+  - **lalgebra\_scalar** | [https://github.com/01-edu/public/tree/master/subjects/lalgebra\_scalar](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/lalgebra_scalar)
+  - **lalgebra\_vector** | [https://github.com/01-edu/public/tree/master/subjects/lalgebra\_vector](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/lalgebra_vector)
+  - **commits\_stats** | [https://github.com/01-edu/public/tree/master/subjects/commits\_stats](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/commits_stats)
+  - **roman\_numbers** | [https://github.com/01-edu/public/tree/master/subjects/roman\_numbers](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/roman_numbers)
+
 
 ### Project 01-rust
 
@@ -200,7 +219,7 @@ Exercice:
 
 ## Week Four
 
-### Quest 08-rust
+### Quest 09-rust
 
 Video: https://www.youtube.com/watch?v=sdEEmmlI6K0
 
@@ -217,7 +236,7 @@ Exercices:
 - step_iterator | https://github.com/01-edu/public/tree/master/subjects/step_iterator
 - project_motion | https://github.com/01-edu/public/tree/master/subjects/project_motion
 
-### Quest 09-rust
+### Quest 10-rust
 
 Video: https://www.youtube.com/watch?v=LMOcoPamcxM
 
@@ -235,3 +254,9 @@ Exercices:
 - pig_latin | https://github.com/01-edu/public/tree/master/subjects/pig_latin
 - spelling | https://github.com/01-edu/public/tree/master/subjects/spelling
 - rgb_match | https://github.com/01-edu/public/tree/master/subjects/rgb_match
+
+### Raid 02-rust
+
+Exercice:
+
+- road-intersection | https://github.com/01-edu/public/tree/master/subjects/road-intersection
