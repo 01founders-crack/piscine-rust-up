@@ -1,4 +1,5 @@
 use std::cell::{Cell, RefCell};
+use std::ops::Drop;
 
 #[derive(Debug, Default, Clone, Eq, PartialEq)]
 pub struct Blog {
@@ -11,7 +12,7 @@ impl Blog {
         Blog::default()
     }
 
-    pub fn new_article(&self, body: String) -> (usize, Article) {
+    pub fn new_article(&self, body: String) -> (usize, Article<'_>) {
         let new_article = Article::new(self.new_id(), body, self);
         self.states.borrow_mut().push(false);
         (new_article.id, new_article)
@@ -29,7 +30,9 @@ impl Blog {
         if self.is_dropped(id) {
             panic!("{} is already dropped", id)
         }
+        
         self.states.borrow_mut()[id] = true;
+        
         self.drops.set(self.drops.get() + 1);
     }
 }
@@ -42,12 +45,11 @@ pub struct Article<'a> {
 }
 
 impl<'a> Article<'a> {
-    pub fn new(id: usize, body: String, parent: &'a Blog) -> Article {
+    pub fn new(id: usize, body: String, parent: &'a Blog) -> Article<'a> {
         Article { id, body, parent }
     }
-
     pub fn discard(self) {
-        drop(self);
+        drop(self)
     }
 }
 
