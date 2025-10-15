@@ -221,39 +221,35 @@ Exercice:
 
 ### Quest 09-rust
 
-Video: https://www.youtube.com/watch?v=sdEEmmlI6K0
+Video: [https://www.youtube.com/watch?v=xCEDVb4p7Js](https://www.youtube.com/watch?v=xCEDVb4p7Js)
 
-Exercices:
+Exercises:
 
-- closures | https://github.com/01-edu/public/tree/master/subjects/closures
-- sales | https://github.com/01-edu/public/tree/master/subjects/sales
-- adding | https://github.com/01-edu/public/tree/master/subjects/adding
-- adding_twice | https://github.com/01-edu/public/tree/master/subjects/adding_twice
-- get_products | https://github.com/01-edu/public/tree/master/subjects/get_products
-- highest | https://github.com/01-edu/public/tree/master/subjects/highest
-- iterators | https://github.com/01-edu/public/tree/master/subjects/iterators
-- slices_to_map | https://github.com/01-edu/public/tree/master/subjects/slices_to_map
-- step_iterator | https://github.com/01-edu/public/tree/master/subjects/step_iterator
-- project_motion | https://github.com/01-edu/public/tree/master/subjects/project_motion
+  - **matrix** | [https://github.com/01-edu/public/tree/master/subjects/matrix](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/matrix)
+  - **matrix\_ops** | [https://github.com/01-edu/public/tree/master/subjects/matrix\_ops](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/matrix_ops)
+  - **matrix\_mult** | [https://github.com/01-edu/public/tree/master/subjects/matrix\_mult](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/matrix_mult)
+  - **lifetimes** | [https://github.com/01-edu/public/tree/master/subjects/lifetimes](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/lifetimes)
+  - **delete\_prefix** | [https://github.com/01-edu/public/tree/master/subjects/delete\_prefix](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/delete_prefix)
+  - **border\_cross** | [https://github.com/01-edu/public/tree/master/subjects/border\_cross](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/border_cross)
+  - **events** | [https://github.com/01-edu/public/tree/master/subjects/events](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/events)
 
 ### Quest 10-rust
 
-Video: https://www.youtube.com/watch?v=LMOcoPamcxM
+Video: [https://www.youtube.com/watch?v=sdEEmmlI6K0](https://www.youtube.com/watch?v=sdEEmmlI6K0)
 
-Exercices:
+Exercises:
 
-- stars | https://github.com/01-edu/public/tree/master/subjects/stars
-- ordinal | https://github.com/01-edu/public/tree/master/subjects/ordinal
-- pangram | https://github.com/01-edu/public/tree/master/subjects/pangram
-- diamond_creation | https://github.com/01-edu/public/tree/master/subjects/diamond_creation
-- scores | https://github.com/01-edu/public/tree/master/subjects/scores
-- talking | https://github.com/01-edu/public/tree/master/subjects/talking
-- searching | https://github.com/01-edu/public/tree/master/subjects/searching
-- logic_number | https://github.com/01-edu/public/tree/master/subjects/logic_number
-- rot | https://github.com/01-edu/public/tree/master/subjects/rot
-- pig_latin | https://github.com/01-edu/public/tree/master/subjects/pig_latin
-- spelling | https://github.com/01-edu/public/tree/master/subjects/spelling
-- rgb_match | https://github.com/01-edu/public/tree/master/subjects/rgb_match
+  - **closures** | [https://github.com/01-edu/public/tree/master/subjects/closures](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/closures)
+  - **sales** | [https://github.com/01-edu/public/tree/master/subjects/sales](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/sales)
+  - **adding** | [https://github.com/01-edu/public/tree/master/subjects/adding](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/adding)
+  - **adding\_twice** | [https://github.com/01-edu/public/tree/master/subjects/adding\_twice](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/adding_twice)
+  - **get\_products** | [https://github.com/01-edu/public/tree/master/subjects/get\_products](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/get_products)
+  - **highest** | [https://github.com/01-edu/public/tree/master/subjects/highest](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/highest)
+  - **iterators** | [https://github.com/01-edu/public/tree/master/subjects/iterators](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/iterators)
+  - **roman\_numbers\_iter** | [https://github.com/01-edu/public/tree/master/subjects/roman\_numbers\_iter](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/roman_numbers_iter)
+  - **slices\_to\_map** | [https://github.com/01-edu/public/tree/master/subjects/slices\_to\_map](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/slices_to_map)
+  - **step\_iterator** | [https://github.com/01-edu/public/tree/master/subjects/step\_iterator](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/step_iterator)
+  - **project\_motion** | [https://github.com/01-edu/public/tree/master/subjects/project\_motion](https://www.google.com/search?q=https://github.com/01-edu/public/tree/master/subjects/project_motion)
 
 ### Raid 02-rust
 
